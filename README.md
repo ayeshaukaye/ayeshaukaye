@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Ayesha — a data science student passionate about NLP, analytics & machine learning.
+👋 Hi, I'm Ayesha — a Data Science undergrad that loves turning messy data into meaningful results.
 
-🔧 Tools: Python, Pandas, scikit-learn, NLTK, Django, Tableau
+🔧 Tools: Python, Pandas, scikit-learn, NLTK, Tableau, Django
 
 - 🔭 I’m currently working on
 
   - 🍴  [Curry & Crumbs](https://github.com/ayeshaukaye/DjangoBlog): A full-stack Django food blog with search and recommendations
-  - 🧪 Monkeypox Tweet Classifier: Detects stress in tweets using NLP & ML
+  - 🧪 Monkeypox Tweet Classifier: An NLP-powered model that detects stress in tweets using ML
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/ayesha-ukaye) | [Email](mailto:ayeshaukaye20@gmail.com)
