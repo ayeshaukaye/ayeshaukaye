@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🔧 Tools: Python, Pandas, scikit-learn, NLTK, Tableau, Django
 
-- 🔭 I’m currently working on
+- I’m currently working on
 
-  - 🍴  [Curry & Crumbs](https://github.com/ayeshaukaye/DjangoBlog): A full-stack Django food blog with search and recommendations
-  - 🧪 Monkeypox Tweet Classifier: An NLP-powered model that detects stress in tweets using ML
+  - 🍴 [Curry & Crumbs](https://github.com/ayeshaukaye/DjangoBlog): A full-stack Django food blog with search and recommendations
+  - 🧬 [Monkeypox Tweet Classifier](https://github.com/ayeshaukaye/MonkeypoxAnalysis): An NLP-powered analysis that detects stress in tweets using ML models
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/ayesha-ukaye) | [Email](mailto:ayeshaukaye20@gmail.com)
